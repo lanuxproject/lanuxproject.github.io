@@ -90,7 +90,7 @@ html{
 }
 
 .sticky .logo{
-  background-image: url(logo.png.);
+  background-image: url(logo.jpg);
 }
 
 .sticky .navbar-menu a{
@@ -128,13 +128,13 @@ html{
 }
 
 #home .content h1::after{
-  content: "LuxesMC";
+  content: "Lanux Project";
   animation: textanim 10s linear infinite;
 }
 
 @keyframes textanim{
   25%{
-    content: "En Kaliteli Minecraft Sunucusu"";
+    content: "En Kaliteli Web Siteleri";
   }
   
 }
